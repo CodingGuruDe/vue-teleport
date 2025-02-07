@@ -1,7 +1,7 @@
 vue-teleport
 -------------
 
-vue2-teleport-next is a lightweight npm package designed to seamlessly integrate Vue 3's [teleport component](https://vuejs.org/guide/built-ins/teleport.html) functionality into Vue 2 projects.
+vue-teleport is a lightweight npm package designed to seamlessly integrate Vue 3's [teleport component](https://vuejs.org/guide/built-ins/teleport.html) functionality into Vue 2 projects.
 
 **👍Key Features:**
 

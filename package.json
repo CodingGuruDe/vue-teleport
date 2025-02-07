@@ -1,10 +1,17 @@
 {
-    "name": "vue-teleport",
+    "name": "@coscom/vue-teleport",
     "version": "1.1.1",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/CodingGuruDe/vue-teleport.git"
     },
+    "keywords": [
+        "Vue2",
+        "Teleport",
+        "Coscom"
+    ],
+    "author": "codingguru",
+    "license": "MIT",
     "homepage": "https://github.com/CodingGuruDe/vue-teleport",
     "bugs": {
         "url": "https://github.com/CodingGuruDe/vue-teleport/issues"
