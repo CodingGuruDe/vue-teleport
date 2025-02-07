@@ -1,5 +1,4 @@
 module.exports = {
-    extends: '@mechazawa',
     rules: {
         'prefer-destructuring': 'off',
         'max-depth': 'off',
@@ -8,6 +7,7 @@ module.exports = {
         'max-lines': 'off',
         'max-lines-per-function': 'off',
     },
+    extends: ['eslint:recommended', 'plugin:vue/essential'],
     overrides: [
         {
             files: ['*CM.vue', '*SVG*.vue', '*WYSIWYG*.vue'],

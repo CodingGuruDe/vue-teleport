@@ -22,6 +22,7 @@ if (typeof window !== 'undefined') {
   // eslint-disable-next-line no-undef
   GlobalVue = window.Vue;
 } else if (typeof global !== 'undefined') {
+  // eslint-disable-next-line no-undef
   GlobalVue = global.Vue;
 }
 

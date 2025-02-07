@@ -1,14 +1,19 @@
 vue-teleport
 -------------
 
-This package is an alternative to [vue3's teleport component][oc-teleport]. You can use the documentation provided by vue as a starting point to using this package.
+vue2-teleport-next is a lightweight npm package designed to seamlessly integrate Vue 3's [teleport component](https://vuejs.org/guide/built-ins/teleport.html) functionality into Vue 2 projects.
 
-## Installation
+**👍Key Features:**
+
+- Lightweight and easy to integrate into Vue 2 projects, providing Vue 2 developers with a seamless transition to gradually adopt Vue 3 features.
+- Implemented using Vue 2's virtual DOM, it delivers excellent performance.
+
+**📦Installation:**
 ```sh
 npm install vue-teleport
 ```
 
-## Example
+**📦Example**
 
 ```vue
 <template>
@@ -47,10 +52,6 @@ export default {
 </script>
 ```
 
-## License
+**📦License**
 
-This project is licensed under the [CC0-1.0 License][license].
-
-
-[license]: /LICENSE
-[oc-teleport]: https://vuejs.org/guide/built-ins/teleport.html
+🚀Start leveraging the power of Vue 3's teleport component within your Vue 2 projects today with vue-teleport!
